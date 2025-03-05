@@ -1,0 +1,10 @@
+# intelliJ
+.idea/
+solid-java.iml
+
+# maven
+target/
+
+# Eclipse Core
+.project
+.classpath
